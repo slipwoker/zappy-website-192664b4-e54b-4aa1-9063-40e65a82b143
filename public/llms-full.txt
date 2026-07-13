@@ -468,7 +468,7 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 - [business_email]
 
-- [business_phone]
+- (702) 606-0133
 
 - [business_address]
 
@@ -952,7 +952,7 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 - [business_email]
 
-- [business_phone]
+- (702) 606-0133
 
 - [business_address]
 
@@ -1500,7 +1500,7 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 - [business_email]
 
-- [business_phone]
+- (702) 606-0133
 
 - [business_address]
 
@@ -1974,7 +1974,7 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 - [business_email]
 
-- [business_phone]
+- (702) 606-0133
 
 - [business_address]
 
@@ -2228,7 +2228,7 @@ Prefer to reach out directly?
 
 
 
-[business_phone]
+(702) 606-0133
 
 
 
@@ -2415,7 +2415,7 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 - [business_email]
 
-- [business_phone]
+- (702) 606-0133
 
 - [business_address]
 
@@ -2628,7 +2628,7 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: (702) 606-0133
 
 - Address: [business_address]
 
@@ -2680,7 +2680,7 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 - [business_email]
 
-- [business_phone]
+- (702) 606-0133
 
 - [business_address]
 
@@ -2901,7 +2901,7 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: (702) 606-0133
 
 
 
@@ -2951,7 +2951,7 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 - [business_email]
 
-- [business_phone]
+- (702) 606-0133
 
 - [business_address]
 
@@ -3195,7 +3195,7 @@ For questions or clarifications regarding the terms of use:
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: (702) 606-0133
 
 - Address: [business_address]
 
@@ -3244,7 +3244,7 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 - [business_email]
 
-- [business_phone]
+- (702) 606-0133
 
 - [business_address]
 
@@ -3447,7 +3447,7 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 - [business_email]
 
-- [business_phone]
+- (702) 606-0133
 
 - [business_address]
 
