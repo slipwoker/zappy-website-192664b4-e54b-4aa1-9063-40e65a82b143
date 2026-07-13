@@ -7,41 +7,41 @@
 ## Pages
 
 ### Home
-https://jtworkx-192664b4.zappy5.app
+https://example.com
 Bring your DIY home repair dreams to life with JTWORKX. Our skilled carpenters and handymen deliver practical renovations and upgrades that wow. Book your free consultation today!
 
 ### Services
-https://jtworkx-192664b4.zappy5.app/services
+https://example.com/services
 Need home electrical repair near me or a complete room makeover? Explore our interactive service menu packed with carpentry and handyman solutions tailored for you. Start your project now!
 
 ### Work
-https://jtworkx-192664b4.zappy5.app/work
+https://example.com/work
 Browse our gallery of stunning habitat for humanity home repair transformations and custom projects. Each image proves our commitment to top-tier craftsmanship. Get inspired for your next upgrade!
 
 ### About
-https://jtworkx-192664b4.zappy5.app/about
+https://example.com/about
 Discover the passion and precision driving JTWORKX. Learn why homeowners trust us for reliable handyman repair and inspired renovations that turn houses into dream homes. Join our story!
 
 ### Contact
-https://jtworkx-192664b4.zappy5.app/contact
+https://example.com/contact
 Stop searching &#39;home electrical repair near me&#39; and start building. Reach out now for a free, interactive quote on any handyman or renovation service. Your dream space is one click away!
 
 ### Thank You - JTWORKX
-https://jtworkx-192664b4.zappy5.app/thank-you
+https://example.com/thank-you
 Thank you for contacting JTWORKX. Your message has been received and our home repair team will be in touch with you shortly.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://jtworkx-192664b4.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://jtworkx-192664b4.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://jtworkx-192664b4.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://jtworkx-192664b4.zappy5.app/contact
-- Endpoint: https://jtworkx-192664b4.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -83,6 +83,6 @@ Home Services & Repair
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://jtworkx-192664b4.zappy5.app/sitemap.xml
-- Robots: https://jtworkx-192664b4.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://jtworkx-192664b4.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
