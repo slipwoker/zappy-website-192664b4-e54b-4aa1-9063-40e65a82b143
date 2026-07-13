@@ -466,11 +466,11 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 #### Contact
 
 
-- [business_email]
+- DESERTTRADESMEN@GMAIL.COM
 
 - (702) 606-0133
 
-- [business_address]
+- Las Vegas , NV, 89178, United States
 
 
 
@@ -480,13 +480,9 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 #### Opening Hours
 
-
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
+- Mon–Sat 09:00–17:00
 
 - Sun Closed
-
 
 
 
@@ -950,11 +946,11 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 #### Contact
 
 
-- [business_email]
+- DESERTTRADESMEN@GMAIL.COM
 
 - (702) 606-0133
 
-- [business_address]
+- Las Vegas , NV, 89178, United States
 
 
 
@@ -964,13 +960,9 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 #### Opening Hours
 
-
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
+- Mon–Sat 09:00–17:00
 
 - Sun Closed
-
 
 
 
@@ -1498,11 +1490,11 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 #### Contact
 
 
-- [business_email]
+- DESERTTRADESMEN@GMAIL.COM
 
 - (702) 606-0133
 
-- [business_address]
+- Las Vegas , NV, 89178, United States
 
 
 
@@ -1512,13 +1504,9 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 #### Opening Hours
 
-
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
+- Mon–Sat 09:00–17:00
 
 - Sun Closed
-
 
 
 
@@ -1972,11 +1960,11 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 #### Contact
 
 
-- [business_email]
+- DESERTTRADESMEN@GMAIL.COM
 
 - (702) 606-0133
 
-- [business_address]
+- Las Vegas , NV, 89178, United States
 
 
 
@@ -1986,13 +1974,9 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 #### Opening Hours
 
-
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
+- Mon–Sat 09:00–17:00
 
 - Sun Closed
-
 
 
 
@@ -2224,7 +2208,7 @@ Prefer to reach out directly?
 
 
 
-[business_email]
+DESERTTRADESMEN@GMAIL.COM
 
 
 
@@ -2413,11 +2397,11 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 #### Contact
 
 
-- [business_email]
+- DESERTTRADESMEN@GMAIL.COM
 
 - (702) 606-0133
 
-- [business_address]
+- Las Vegas , NV, 89178, United States
 
 
 
@@ -2427,13 +2411,9 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 #### Opening Hours
 
-
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
+- Mon–Sat 09:00–17:00
 
 - Sun Closed
-
 
 
 
@@ -2470,7 +2450,6 @@ URL: https://example.com/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
-
 
 
 
@@ -2626,11 +2605,11 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Company: JTWORKX
 
-- Email: [business_email]
+- Email: DESERTTRADESMEN@GMAIL.COM
 
 - Phone: (702) 606-0133
 
-- Address: [business_address]
+- Address: Las Vegas , NV, 89178, United States
 
 
 
@@ -2678,11 +2657,11 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 #### Contact
 
 
-- [business_email]
+- DESERTTRADESMEN@GMAIL.COM
 
 - (702) 606-0133
 
-- [business_address]
+- Las Vegas , NV, 89178, United States
 
 
 
@@ -2692,13 +2671,9 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 #### Opening Hours
 
-
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
+- Mon–Sat 09:00–17:00
 
 - Sun Closed
-
 
 
 
@@ -2735,7 +2710,6 @@ URL: https://example.com/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
-
 
 
 
@@ -2899,7 +2873,7 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 - Company: JTWORKX
 
-- Email: [business_email]
+- Email: DESERTTRADESMEN@GMAIL.COM
 
 - Phone: (702) 606-0133
 
@@ -2949,11 +2923,11 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 #### Contact
 
 
-- [business_email]
+- DESERTTRADESMEN@GMAIL.COM
 
 - (702) 606-0133
 
-- [business_address]
+- Las Vegas , NV, 89178, United States
 
 
 
@@ -2963,13 +2937,9 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 #### Opening Hours
 
-
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
+- Mon–Sat 09:00–17:00
 
 - Sun Closed
-
 
 
 
@@ -3006,7 +2976,6 @@ URL: https://example.com/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
-
 
 
 
@@ -3193,11 +3162,11 @@ For questions or clarifications regarding the terms of use:
 
 - Company: JTWORKX
 
-- Email: [business_email]
+- Email: DESERTTRADESMEN@GMAIL.COM
 
 - Phone: (702) 606-0133
 
-- Address: [business_address]
+- Address: Las Vegas , NV, 89178, United States
 
 
 
@@ -3242,11 +3211,11 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 #### Contact
 
 
-- [business_email]
+- DESERTTRADESMEN@GMAIL.COM
 
 - (702) 606-0133
 
-- [business_address]
+- Las Vegas , NV, 89178, United States
 
 
 
@@ -3256,13 +3225,9 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 #### Opening Hours
 
-
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
+- Mon–Sat 09:00–17:00
 
 - Sun Closed
-
 
 
 
@@ -3445,11 +3410,11 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 #### Contact
 
 
-- [business_email]
+- DESERTTRADESMEN@GMAIL.COM
 
 - (702) 606-0133
 
-- [business_address]
+- Las Vegas , NV, 89178, United States
 
 
 
@@ -3459,13 +3424,9 @@ Precision craftsmanship for your home — reliable repairs, expert service, and 
 
 #### Opening Hours
 
-
-- Mon–Fri 09:00–18:00
-
-- Sat 09:00–13:00
+- Mon–Sat 09:00–17:00
 
 - Sun Closed
-
 
 
 
