@@ -265,7 +265,9 @@ JTWORKX approaches each job with the eye of a craftsperson and the practicality 
 - Job areas left tidy
 
 
+
 See Work Examples
+
 
 
 
@@ -278,6 +280,37 @@ Precision Work
 
 
 
+
+
+
+
+
+
+
+
+
+
+Text goes here
+
+### Subheading
+
+
+Text goes here
+
+
+
+
+
+
+
+
+
+Text goes here
+
+### Subheading
+
+
+Text goes here
 
 
 
@@ -304,12 +337,14 @@ Doors and drawers realigned for smooth operation and a polished look.
 
 
 
+
 Trim Repair
 
 ### Damaged Trim Replacement
 
 
 Seamless baseboard and casing replacement that matches existing profiles.
+
 
 
 
