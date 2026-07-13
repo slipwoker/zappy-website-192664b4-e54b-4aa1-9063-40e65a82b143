@@ -7,41 +7,41 @@
 ## Pages
 
 ### Home
-https://example.com
+https://jtworkx.zappy5.app
 Bring your DIY home repair dreams to life with JTWORKX. Our skilled carpenters and handymen deliver practical renovations and upgrades that wow. Book your free consultation today!
 
 ### Services
-https://example.com/services
+https://jtworkx.zappy5.app/services
 Need home electrical repair near me or a complete room makeover? Explore our interactive service menu packed with carpentry and handyman solutions tailored for you. Start your project now!
 
 ### Work
-https://example.com/work
+https://jtworkx.zappy5.app/work
 Browse our gallery of stunning habitat for humanity home repair transformations and custom projects. Each image proves our commitment to top-tier craftsmanship. Get inspired for your next upgrade!
 
 ### About
-https://example.com/about
+https://jtworkx.zappy5.app/about
 Discover the passion and precision driving JTWORKX. Learn why homeowners trust us for reliable handyman repair and inspired renovations that turn houses into dream homes. Join our story!
 
 ### Contact
-https://example.com/contact
+https://jtworkx.zappy5.app/contact
 Stop searching &#39;home electrical repair near me&#39; and start building. Reach out now for a free, interactive quote on any handyman or renovation service. Your dream space is one click away!
 
 ### Thank You - JTWORKX
-https://example.com/thank-you
+https://jtworkx.zappy5.app/thank-you
 Thank you for contacting JTWORKX. Your message has been received and our home repair team will be in touch with you shortly.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://jtworkx.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://jtworkx.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://jtworkx.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -54,8 +54,8 @@ Information about WCAG compliance and accessibility features.
 - Address: Las Vegas , NV, 89178, United States
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://jtworkx.zappy5.app/contact
+- Endpoint: https://jtworkx.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -86,6 +86,6 @@ Home Services & Repair
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://jtworkx.zappy5.app/sitemap.xml
+- Robots: https://jtworkx.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://jtworkx.zappy5.app/llms-full.txt
