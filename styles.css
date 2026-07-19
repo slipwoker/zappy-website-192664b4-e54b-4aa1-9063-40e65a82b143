@@ -8730,6 +8730,19 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+#home-hero-section img[data-hero-bg] {
+  object-fit: contain !important;
+  object-position: center center !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+#home-hero-section img[data-hero-bg] ~ .zappy-carousel-hero .zappy-carousel-slide img,
+#zappy-carousel-1784463385027 img {
+  object-fit: contain !important;
+  object-position: center center !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
